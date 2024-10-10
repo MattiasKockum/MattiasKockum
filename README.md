@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MattiasKockum
-- 👀 I’m interested in Artificial Intelligence and BlockChain
-- 💞️ I’m looking to collaborate on AI
+- 👀 I’m interested in Artificial Intelligence and Cyber Security
+- 🐙 I'm working at DynFi in Paris
+- 💞️ I’m building personnal projects around AI and virtualization
 - 📫 How to reach me : mattias@kockum.net
 
 <!---
