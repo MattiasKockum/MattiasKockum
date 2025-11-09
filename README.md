@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattiasKockum
-- 👀 I’m interested in Artificial Intelligence and Cyber Security
-- 🐙 I'm working at DynFi in Paris
+- 👀 Interested in Artificial Intelligence, Cyber Security, and Linux (especially NixOS)
+- 🗼 I'm working from Paris
 - 💞️ I’m building personnal projects around AI and virtualization
 - 📫 How to reach me : mattias@kockum.net
 
