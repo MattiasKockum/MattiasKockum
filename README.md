@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MattiasKockum
 - 👀 Interested in Artificial Intelligence, Cyber Security, and Linux (especially NixOS)
 - 🗼 I'm working from Paris
-- 💞️ I’m building personnal projects around AI and virtualization
 - 📫 How to reach me : mattias@kockum.net
 
 <!---
